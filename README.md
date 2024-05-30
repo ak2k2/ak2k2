@@ -4,12 +4,12 @@
 🔍 Exploring algorithmic trading and designing game-playing agents.  
 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!
 
-![Snake animation](https://github.com/ak2k2/ak2k2/blob/output/github-contribution-grid-snake.svg)
-
-## 💻 Favorite Tech
-Tools and technologies I love to work with:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-80b5e3?style=flat-square&logo=beautifulsoup&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
 ## 🔥 Commits
 ![Armaan's GitHub Activity](https://ghchart.rshah.org/ak2k2)
