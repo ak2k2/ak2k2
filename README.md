@@ -10,17 +10,20 @@
 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!
 
 
-![Armaan's GitHub Activity](https://ghchart.rshah.org/ak2k2)
+## 📈 GitHub Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak2k2&layout=compact&theme=vue)
+<table>
+  <tr>
+    <td><img src="https://ghchart.rshah.org/ak2k2" alt="Armaan's GitHub Activity"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak2k2&layout=compact&theme=vue" alt="Most Used Languages"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ak2k2&theme=dark" alt="GitHub Streak"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ak2k2&show_icons=true&theme=vue" alt="GitHub Stats"/></td>
+  </tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ak2k2&theme=dark)
-
-## 📊 GitHub Stats
-![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak2k2&show_icons=true&theme=vue)
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ak2k2&theme=nord&no-frame=true)
-
 
 
