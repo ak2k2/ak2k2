@@ -4,6 +4,9 @@
 🔍 Exploring algorithmic trading and designing game-playing agents.  
 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!
 
+![Snake animation](https://github.com/ak2k2/ak2k2/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📊 GitHub Stats
 ![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak2k2&show_icons=true&theme=vue)
 
