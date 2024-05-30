@@ -16,6 +16,5 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ak2k2&theme=nord&no-frame=true)
 
-## 🕵️‍♂️ Visitor Count
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ak2k2.ak2k2)
+
 
