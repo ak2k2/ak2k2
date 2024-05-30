@@ -1,15 +1,15 @@
 # Hey, I'm Armaan!
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-80b5e3?style=flat-square&logo=beautifulsoup&logoColor=white)
 
 👨‍💻 Developing a Platform as a Service (PaaS) web app that integrates generative AI into preconfigured cloud workstations.  
 🔍 Exploring algorithmic trading and designing game-playing agents.  
 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-80b5e3?style=flat-square&logo=beautifulsoup&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
 ## 🔥 Commits
 ![Armaan's GitHub Activity](https://ghchart.rshah.org/ak2k2)
