@@ -10,13 +10,10 @@
 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!
 
 
-## 🔥 Commits
 ![Armaan's GitHub Activity](https://ghchart.rshah.org/ak2k2)
 
-## 🧮 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak2k2&layout=compact&theme=vue)
 
-## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ak2k2&theme=dark)
 
 ## 📊 GitHub Stats
