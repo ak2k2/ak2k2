@@ -10,7 +10,7 @@
 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!
 
 
-## 📈 GitHub Statistics
+## 📈 My GitHub Statistics
 
 <table>
   <tr>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-### 🏆 GitHub Trophies
+### 🏆 My GitHub Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ak2k2&theme=nord&no-frame=true)
 
 
