@@ -1,8 +1,8 @@
-# Hi, I'm Armaan Kapoor!
+# Hey, I'm Armaan!
 
-👨‍💻 Working on integrating generative AI into cloud workstations.  
-🔍 Interested in algorithmic trading and game-playing agents.  
-🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or check out my projects below!
+👨‍💻 Developing a Platform as a Service (PaaS) web app that integrates generative AI into preconfigured cloud workstations.  
+🔍 Exploring algorithmic trading and designing game-playing agents.  
+🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!
 
 ## 📊 GitHub Stats
 ![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak2k2&show_icons=true&theme=vue)
@@ -16,5 +16,7 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ak2k2&theme=nord&no-frame=true)
 
+## 🔥 Heatmap
+![Armaan's GitHub Activity](https://ghchart.rshah.org/ak2k2)
 
 
