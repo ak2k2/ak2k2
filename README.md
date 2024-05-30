@@ -7,7 +7,7 @@
 
 👨‍💻 Developing a Platform as a Service (PaaS) web app that integrates generative AI into preconfigured cloud workstations.  
 🔍 Exploring algorithmic trading and designing game-playing agents.  
-🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!
+🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!  
 📚 Download my [Resumé](https://github.com/ak2k2/ak2k2/files/15493160/resume_fixed.pdf)
 
 
