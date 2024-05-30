@@ -6,6 +6,11 @@
 
 ![Snake animation](https://github.com/ak2k2/ak2k2/blob/output/github-contribution-grid-snake.svg)
 
+## 💻 Favorite Tech
+Tools and technologies I love to work with:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
 ## 🔥 Commits
 ![Armaan's GitHub Activity](https://ghchart.rshah.org/ak2k2)
 
