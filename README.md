@@ -5,7 +5,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
-=IF(ISERROR(FILTERXML("<t><s>" & SUBSTITUTE(A1, CHAR(9), "</s><s>") & "</s></t>", "//s")), "No Tab", "Tab Found")
 
 👨‍💻 Developing LLM 
 🔍 Exploring algorithmic trading and designing game-playing agents.  
