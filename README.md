@@ -6,7 +6,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
 
-👨‍💻 Developing LLM 
+👨‍💻 Developing a Retrival Augmented Generation SaaS/Paas      
 🔍 Exploring algorithmic trading and designing game-playing agents.  
 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!  
 📚 Download my [Resumé](https://github.com/ak2k2/ak2k2/files/15493160/resume_fixed.pdf)
