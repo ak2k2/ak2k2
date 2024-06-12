@@ -5,7 +5,9 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
-👨‍💻 Developing a Platform as a Service (PaaS) web app that integrates generative AI into preconfigured cloud workstations.  
+=IF(ISERROR(FILTERXML("<t><s>" & SUBSTITUTE(A1, CHAR(9), "</s><s>") & "</s></t>", "//s")), "No Tab", "Tab Found")
+
+👨‍💻 Developing LLM 
 🔍 Exploring algorithmic trading and designing game-playing agents.  
 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/armaan-kapoor/) or explore my projects below!  
 📚 Download my [Resumé](https://github.com/ak2k2/ak2k2/files/15493160/resume_fixed.pdf)
