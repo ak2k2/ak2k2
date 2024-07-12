@@ -21,7 +21,6 @@
   </tr>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ak2k2&theme=dark" alt="GitHub Streak"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ak2k2&show_icons=true&theme=vue" alt="GitHub Stats"/></td>
   </tr>
 </table>
 
