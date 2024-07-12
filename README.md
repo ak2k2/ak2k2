@@ -12,8 +12,6 @@
 📚 Download my [Resumé](https://github.com/ak2k2/ak2k2/files/15493160/resume_fixed.pdf)
 
 
-## 📈 My GitHub Statistics
-
 <table>
   <tr>
     <td><img src="https://ghchart.rshah.org/ak2k2" alt="Armaan's GitHub Activity"/></td>
