@@ -17,7 +17,6 @@
 <table>
   <tr>
     <td><img src="https://ghchart.rshah.org/ak2k2" alt="Armaan's GitHub Activity"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak2k2&layout=compact&theme=vue" alt="Most Used Languages"/></td>
   </tr>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ak2k2&theme=dark" alt="GitHub Streak"/></td>
