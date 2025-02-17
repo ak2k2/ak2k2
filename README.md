@@ -1,4 +1,4 @@
-[http://armaankapoor.com]
+[http://armaankapoor.com](armaankapoor.com)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
